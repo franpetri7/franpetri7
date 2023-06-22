@@ -1,6 +1,9 @@
 ## Hola! Mi nombre es Francisco Petri 👋
 ### franpetri7 en GitHub😄
+
+! Mi nombre es Francisco Petri y soy estudiante de Analista en Sistema 🖥️ en la Universidad Nacional de Córdoba. Siempre senti una gran pasión por la programación y el diseño, ademas de los desafios. Creo firmemente en la perseverancia y en la proactividad de uno, el esfuerzo es la clave del éxito!
 <!--
+
 **franpetri7/franpetri7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
